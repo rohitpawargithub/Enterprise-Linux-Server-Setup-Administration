@@ -17,26 +17,7 @@ This project simulates a **real-world production Linux server environment**.
 - Monitoring: top, ps, journalctl
 
 ---
-rhcsa-major-project/
-│
-├── README.md
-├── docs/
-│   ├── project-overview.md
-│   ├── architecture.md
-│
-├── scripts/
-│   ├── user_group_setup.sh
-│   ├── lvm_setup.sh
-│   ├── apache_setup.sh
-│   ├── firewall_selinux.sh
-│   ├── backup_cron.sh
-│
-├── screenshots/
-│   └── (optional – terminal outputs)
-│
-└── LICENSE
 
----
 ## 🎯 Features Implemented
 
 ### 👤 User & Group Management
